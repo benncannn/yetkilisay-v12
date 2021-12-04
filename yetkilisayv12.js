@@ -22,3 +22,4 @@ exports.config = {
 enabled: true,
 guildOnly: false,
 aliases: ["yetkilisay"],
+}
