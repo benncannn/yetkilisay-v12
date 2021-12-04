@@ -1,1 +1,0 @@
-# yetkilisay-v12
